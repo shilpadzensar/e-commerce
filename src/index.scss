@@ -1,0 +1,58 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "./variables/default";
+
+@import "./variables/light-red";
+// @import "./variables/light-green";
+// @import "./variables/light-theme-blue";
+// @import "./variables/light-gradients";
+@import "./variables/dark-red";
+
+// @import "./variables/kids-toy-shop";
+
+:root{ 
+  --theme-primary: #{$primary-color};
+  --theme-secondary: #{$secondary-color};
+  --theme-info: #{$info-color};
+}
+
+
+$body-bg: $bg-color-light;
+$body-color: $color;
+
+$primary:      $primary-color;
+$secondary:     $secondary-color;
+$info:          $info-color;
+
+// $success:       $green !default;
+// $warning:       $yellow !default;
+// $danger:        $red !default;
+
+$light:         $bg-color-light;
+$dark:          $color;
+
+$link-decoration:            none;
+
+// $border-radius-sm:            0;
+// $border-radius-lg:            0;
+
+$white: $color-light;
+$black: $color;
+
+$fade-color: invert($color, 30%);
+
+$font-family-sans-serif: $body-font, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+@import "./mixins/mixins";
+
+@import "./partials/common";
+@import "./partials/header";
+@import "./partials/carousel";
+@import "./partials/banner";
+@import "./partials/highlight";
+@import "./partials/newsletter";
+@import "./partials/footer";
+@import "./partials/card";
+@import "./partials/cart";
+@import "./partials/login";

@@ -1,0 +1,31 @@
+
+$color: #050505;
+
+$color-light: #ffffff;
+
+// $bg-color-light: #F5F0F6;
+$bg-color-light: #fafaf9;
+
+$primary-color: #d71952;
+
+// $secondary-color: #FFC857;
+// $highlight-color: #fff0ab;
+$info-color: #fff0ab;
+// #f8d1b3
+// #ffd9a9
+
+$bg-highlight-color: linear-gradient(to right, #ffea8e 0%,#fdc884 50%,#fdc884 50%,#f7475f 100%);
+
+// $bg-color-dark : #2E4052;
+
+$header-bg-color: linear-gradient(90deg, hsla(297, 59%, 34%, 1) 0%, hsla(345, 74%, 58%, 1) 50%, hsla(22, 87%, 56%, 1) 100%);
+$header-color: $color-light;
+
+$footer-bg-color: linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%);
+$footer-color: $color;
+
+$title-font: 'Playfair Display';
+
+$body-font: 'Open Sans';
+
+$border-radius: 24px;

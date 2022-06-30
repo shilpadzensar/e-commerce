@@ -1,0 +1,67 @@
+// START FOOTER
+footer {
+  background: $footer-bg-color;
+  color: $footer-color;
+
+  .main-footer {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    a {
+      color: $footer-color;
+    }
+
+    .logo-img {
+      @include logo-img();
+    }
+
+    .social ul {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+
+      li.social-icon {
+        display: inline-block;
+
+        a {
+          @include hover-bg($footer-color);
+          padding: 2px 6px;
+          border-radius: $border-radius;
+        }
+
+      }
+    }
+  }
+
+  hr {
+    background-color: $footer-color;
+  }
+
+  ul.quick-links {
+    margin: 0;
+    padding: 0;
+
+    li {
+      display: block;
+
+      &:not(:last-child) {
+        margin-bottom: 8px;
+      }
+    }
+  }
+
+  .payment-options {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 1.5rem;
+    gap: 16px;
+  }
+}
+
+// END FOOTER

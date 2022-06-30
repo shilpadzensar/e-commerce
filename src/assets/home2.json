@@ -1,0 +1,295 @@
+{
+    "login": {
+        "title": "Log In",
+        "description": "Just one step away from the future",
+        "contentPosition": "left",
+        "imageSrc": "https://images.unsplash.com/photo-1490370946242-34092dbf29f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
+        "imageAltText": "Login background Image"
+    },
+    "banners": [
+        {
+            "title": "Breathe More!",
+            "description": "Do you know that some indoor plants also cool off air and act as natural air purifiers?",
+            "buttonText": "Get your home greener",
+            "contentPosition": "left",
+            "imageSrc": "https://images.unsplash.com/photo-1490370946242-34092dbf29f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
+            "imageAltText": "Banner Image"
+        }
+    ],
+    "featureSection": {
+        "title": "Recommendations based on your locality",
+        "description": "",
+        "buttonText": "More",
+        "sectionType": "grid",
+        "cardShape": "square",
+        "cardSize": "small",
+        "cardtype": "plain",
+        "cards": [
+            {
+                "description": "Description",
+                "imageSrc": "https://images.unsplash.com/photo-1614242405942-f054ae008771?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTF8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            },
+            {
+                "description": "Description",
+                "imageSrc": "https://images.unsplash.com/photo-1610354745731-33642d488abb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            },
+            {
+                "description": "Description",
+                "imageSrc": "https://images.unsplash.com/photo-1619900746827-1484e5f136ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTZ8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            },
+            {
+                "description": "Description",
+                "imageSrc": "https://images.unsplash.com/photo-1614242405942-f054ae008771?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTF8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            },
+            {
+                "description": "Description",
+                "imageSrc": "https://images.unsplash.com/photo-1610354745731-33642d488abb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            }
+        ]
+    },
+    "newsletter": {
+        "title": "Never miss out on latest offers!",
+        "buttonText": "Subscribe",
+        "inputPlaceholder": "Enter email address"
+    },
+    "highlightBanner": {
+        "title": "Get even more Eco friendly!",
+        "description": "See how you can use DIY methods to make a healthier environment around you",
+        "buttonText": "Go to our YouTube Channel",
+        "contentPosition": "center",
+        "imageSrc": "https://images.unsplash.com/photo-1610354745731-33642d488abb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "imageAltText": "Banner Image"
+    },
+    "sections": [
+        {
+            "title": "Offers just for you!",
+            "description": "These are Portrait cards",
+            "buttonText": "More",
+            "sectionType": "carousel",
+            "cardShape": "portrait",
+            "cardSize": "medium",
+            "cardtype": "plain",
+            "cards": [
+                {
+                    "title": "Desk Plants",
+                    "description": "Upto 20% Off",
+                    "buttonText": "Shop Now",
+                    "imageSrc": "https://images.unsplash.com/photo-1614242405942-f054ae008771?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTF8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": "Card Image"
+                },
+                {
+                    "title": "Wall Hanging",
+                    "description": "Buy 3 and Get 1 Free",
+                    "imageSrc": "https://images.unsplash.com/photo-1600411832986-5a4477b64a1c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODR8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": "Card Image"
+                },
+                {
+                    "title": "Tropical",
+                    "description": "Get Trendy with latest fashion updates!",
+                    "imageSrc": "https://images.unsplash.com/photo-1612363228106-c94b0754e2c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODd8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": "Card Image"
+                },
+                {
+                    "title": "NEW ARRIVALS",
+                    "description": "Get Trendy with latest fashion updates!",
+                    "imageSrc": "https://images.unsplash.com/photo-1612363228106-c94b0754e2c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODd8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": "Card Image"
+                },
+                {
+                    "title": "NEW ARRIVALS",
+                    "description": "Get Trendy with latest fashion updates!",
+                    "imageSrc": "https://images.unsplash.com/photo-1612363228106-c94b0754e2c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODd8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": "Card Image"
+                },
+                {
+                    "title": "NEW ARRIVALS",
+                    "description": "Get Trendy with latest fashion updates!",
+                    "imageSrc": "https://images.unsplash.com/photo-1612363228106-c94b0754e2c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODd8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": "Card Image"
+                }
+            ]
+        },
+        {
+            "title": "Whats your choice of plants?",
+            "description": "",
+            "buttonText": "More",
+            "sectionType": "grid",
+            "cardShape": "portrait",
+            "cardSize": "medium",
+            "cardtype": "plain",
+            "cards": [
+                {
+                    "title": "Desk Plants",
+                    "description": "Get Trendy with latest fashion updates!",
+                    "buttonText": "Shop Now",
+                    "imageSrc": "https://images.unsplash.com/photo-1614242405942-f054ae008771?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTF8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": "Card Image"
+                },
+                {
+                    "title": "Wall Hanging",
+                    "description": "Get Trendy with latest fashion updates!",
+                    "imageSrc": "https://images.unsplash.com/photo-1614242405942-f054ae008771?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTF8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": "Card Image"
+                },
+                {
+                    "title": "Tropical",
+                    "description": "Get Trendy with latest fashion updates!",
+                    "imageSrc": "https://images.unsplash.com/photo-1614242405942-f054ae008771?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTF8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": "Card Image"
+                },
+                {
+                    "title": "For Larger Spaces",
+                    "description": "Get Trendy with latest fashion updates!",
+                    "imageSrc": "https://images.unsplash.com/photo-1614242405942-f054ae008771?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTF8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": "Card Image"
+                },
+                {
+                    "title": "Desk Plants",
+                    "description": "Get Trendy with latest fashion updates!",
+                    "buttonText": "Shop Now",
+                    "imageSrc": "https://images.unsplash.com/photo-1614242405942-f054ae008771?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTF8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": "Card Image"
+                },
+                {
+                    "title": "Wall Hanging",
+                    "description": "Get Trendy with latest fashion updates!",
+                    "imageSrc": "https://images.unsplash.com/photo-1614242405942-f054ae008771?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTF8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": "Card Image"
+                }
+            ]
+        },
+        {
+            "title": "Green Green Green!!",
+            "buttonText": "More",
+            "sectionType": "grid",
+            "cardShape": "portrait",
+            "cardSize": "medium",
+            "cardType": "product",
+            "cards": [
+                {
+                    "productId": "001",
+                    "productName": "The Plant",
+                    "caption": "Summer Plants",
+                    "description": "",
+                    "badge": "Sale!",
+                    "averageRating": "4.5",
+                    "totalRatings": "753",
+                    "price": "$80",
+                    "discountPrice": "$60",
+                    "images": [
+                        {
+                            "imageSrc": "https://images.unsplash.com/photo-1612363228106-c94b0754e2c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODd8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                            "imageAltText": ""
+                        }
+                    ],
+                    "offers": "",
+                    "available": true,
+                    "category": "Plant",
+                    "subcategory": "Winter Plant",
+                    "keywords": [
+                        "healty",
+                        "green"
+                    ],
+                    "classification": {
+                        "type": "indoor"                        
+                    },
+                    "reviews": [
+                        {
+                            "user-id": "",
+                            "user-name": "",
+                            "rating": "",
+                            "comment": "",
+                            "replies": [
+                                {
+                                    "user-id": "",
+                                    "user-name": "",
+                                    "comment": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "productId": "001",
+                    "productName": "The Plant",
+                    "caption": "Summer Plants",
+                    "description": "",
+                    "badge": "Sale!",
+                    "averageRating": "4.5",
+                    "totalRatings": "753",
+                    "price": "$80",
+                    "discountPrice": "$60",
+                    "images": [
+                        {
+                            "imageSrc": "https://images.unsplash.com/photo-1612363228106-c94b0754e2c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODd8fGluZG9vciUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                            "imageAltText": ""
+                        }
+                    ],
+                    "offers": "",
+                    "available": true,
+                    "category": "Plant",
+                    "subcategory": "Winter Plant",
+                    "keywords": [
+                        "healty",
+                        "green"
+                    ],
+                    "classification": {
+                        "type": "indoor"                        
+                    },
+                    "reviews": [
+                        {
+                            "user-id": "",
+                            "user-name": "",
+                            "rating": "",
+                            "comment": "",
+                            "replies": [
+                                {
+                                    "user-id": "",
+                                    "user-name": "",
+                                    "comment": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "bottomSection": {
+        "title": "Recommendations based on your locality",
+        "description": "Free Shipping",
+        "buttonText": "More",
+        "sectionType": "grid",
+        "cardShape": "square",
+        "cardSize": "small",
+        "cardtype": "plain",
+        "cards": [
+            {
+                "description": "A very special plant",
+                "buttonText": "Shop Now",
+                "imageSrc": "https://images.unsplash.com/photo-1611068121255-6c385c1ae32c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+                "imageAltText": "Card Image"
+            },
+            {
+                "description": "A very special plant",
+                "imageSrc": "https://images.unsplash.com/photo-1611068121255-6c385c1ae32c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+                "imageAltText": "Card Image"
+            },
+            {
+                "description": "A very special plant",
+                "imageSrc": "https://images.unsplash.com/photo-1611068121255-6c385c1ae32c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+                "imageAltText": "Card Image"
+            },
+            {
+                "description": "A very special plant",
+                "imageSrc": "https://images.unsplash.com/photo-1611068121255-6c385c1ae32c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+                "imageAltText": "Card Image"
+            }
+        ]
+    }
+}

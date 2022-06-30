@@ -1,0 +1,291 @@
+{
+    "login":
+    {
+        "title": "Sign In",
+        "description": "Buy the best toys, always",
+        "contentPosition": "center",
+        "imageSrc": "https://images.unsplash.com/photo-1631106254201-ffbee2305c5b?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "imageAltText": "Login background Image"
+    },
+    "banners": [
+    {
+        "title": "Bring Home Festivity!",
+        "description": "Celebrate Christmas with these toys",
+        "buttonText": "Buy Now",
+        "contentPosition": "left",
+        "imageSrc": "https://images.unsplash.com/photo-1511881721716-686204776e2b?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160",
+        "imageAltText": "Banner Image"
+    },
+    {
+        "title": "Troopers are here",
+        "description": "Which side do you choose?",
+        "buttonText": "See the complete Lego set",
+        "contentPosition": "left",
+        "imageSrc": "https://images.unsplash.com/photo-1484824823018-c36f00489002?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470",
+        "imageAltText": "Banner Image"
+    }],
+    "featureSection":
+    {
+        "title": "Have you met the Winston family?",
+        "description": "These crochet jungle creatures are here to steal your hearts",
+        "buttonText": "Meet All",
+        "sectionType": "grid",
+        "cardShape": "portrait",
+        "cardSize": "medium",
+        "cardtype": "plain",
+        "cards": [
+        {
+            "title": "George",
+            "buttonText": "Buy Now",
+            "imageSrc": "https://images.unsplash.com/photo-1615486363973-f79d875780cf?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGtpZHMlMjB0b3lzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000",
+            "imageAltText": "Card Image"
+        },
+        {
+            "title": "Pickles",
+            "buttonText": "Buy Now",
+            "imageSrc": "https://images.unsplash.com/photo-1615486364134-62a4c72c822d?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGtpZHMlMjB0b3lzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000",
+            "imageAltText": "Card Image"
+        },
+        {
+            "title": "Lala",
+            "buttonText": "Buy Now",
+            "imageSrc": "https://images.unsplash.com/photo-1615486363990-dff6c0722a38?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGtpZHMlMjB0b3lzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000",
+            "imageAltText": "Card Image"
+        },
+        {
+            "title": "Fred",
+            "buttonText": "Buy Now",
+            "imageSrc": "https://images.unsplash.com/photo-1615486363973-f79d875780cf?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGtpZHMlMjB0b3lzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000",
+            "imageAltText": "Card Image"
+        }]
+    },
+    "newsletter": {
+        "title": "Always gift your kids the latest toys in the market",
+        "buttonText": "Subscribe",
+        "inputPlaceholder": "Enter email address"
+    },
+    "highlightBanner": {
+        "title": "Always the safest choice for your kids!",
+        "description": "We make our toys from safe and lead free materials",
+        "buttonText": "See where we are in safety chart",
+        "contentPosition": "center",
+        "imageSrc": "https://images.unsplash.com/photo-1519415943484-9fa1873496d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "imageAltText": "Banner Image"
+    },
+    "sections": [
+        {
+            "title": "Stuff Toys",
+            "description": "Your next best buddy is right here!",
+            "buttonText": "Buy Now",
+            "sectionType": "carousel",
+            "cardShape": "square",
+            "cardSize": "medium",
+            "cardtype": "plain",
+            "cards": [
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "buttonText": "Buy Now",
+                "imageSrc": "https://images.unsplash.com/photo-1517686748843-bb360cfc62b3?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1533859583213-c4e11b597ee0?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1556012018-50c5c0da73bf?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1567169866456-a0759b6bb0c8?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1598931247655-fe06b102b7de?ixlib=rb-1.2.1&raw_url=true&q=60&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE2fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=300",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1621508638997-e30808c10653?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880",
+                "imageAltText": "Card Image"
+            }]
+        },
+        {
+            "title": "Toys from your favorite movies",
+            "buttonText": "Buy Now",
+            "sectionType": "grid",
+            "cardShape": "Square",
+            "cardSize": "medium",
+            "cardtype": "plain",
+            "cards": [
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "buttonText": "Buy Now",
+                "imageSrc": "https://images.unsplash.com/photo-1623939012339-5b3dc8eca7c6?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTM3fHxraWRzJTIwdG95c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1590922739636-036fb9dfbbeb?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTYzfHxraWRzJTIwdG95c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1529143732233-da7fb74682a3?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTc1fHxraWRzJTIwdG95c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1627796795540-18e2db6d3908?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTk0fHxraWRzJTIwdG95c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1554825203-68321ddde262?ixlib=rb-1.2.1&raw_url=true&q=60&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjAyfHxraWRzJTIwdG95c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1475563011407-6bf489b1c361?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjM2fHxraWRzJTIwdG95c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400",
+                "imageAltText": "Card Image"
+            }]
+        },
+        {
+            "title": "Cars!!!",
+            "description": "Get Trendy with latest fashion updates!",
+            "buttonText": "Buy Now",
+            "sectionType": "grid",
+            "cardShape": "square",
+            "cardSize": "medium",
+            "cardType": "product",
+            "cards": [
+                {
+                    "productId": "001",
+                    "productName": "The Sprinters",
+                    "caption": "Lightweight running shoes",
+                    "description": "",
+                    "badge": "Sale!",
+                    "averageRating": "4.5",
+                    "totalRatings": "753",
+                    "price": "$80",
+                    "discountPrice": "$60",
+                    "images": [
+                    {
+                        "imageSrc": "https://images.unsplash.com/photo-1512308439392-3c1bec71099e?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTU3fHxraWRzJTIwdG95c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400",
+                        "imageAltText": ""
+                    }],
+                    "offers": "",
+                    "available": true,
+                    "category": "Shoes",
+                    "subcategory": "Running Shoes",
+                    "keywords": ["lightweight", "white", "light", "running", "jogging", "shoes"],
+                    "classification":
+                    {
+                        "color": "grey",
+                        "gender": "men"
+
+                    },
+                    "reviews": [
+                        {
+                            "user-id": "",
+                            "user-name": "",
+                            "rating": "",
+                            "comment": "",
+                            "replies": [
+                            {
+                                "user-id": "",
+                                "user-name": "",
+                                "comment": ""
+                            }]
+                        }
+                    ]
+                },
+                {
+                    "productId": "001",
+                    "productName": "The Sprinters",
+                    "caption": "Lightweight running shoes",
+                    "description": "",
+                    "badge": "Sale!",
+                    "averageRating": "4.5",
+                    "totalRatings": "753",
+                    "price": "$80",
+                    "discountPrice": "$60",
+                    "images": [
+                    {
+                        "imageSrc": "https://images.unsplash.com/photo-1550432163-9cb326104944?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTMxfHxraWRzJTIwdG95c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400",
+                        "imageAltText": ""
+                    }],
+                    "offers": "",
+                    "available": true,
+                    "category": "Shoes",
+                    "subcategory": "Running Shoes",
+                    "keywords": ["lightweight", "white", "light", "running", "jogging", "shoes"],
+                    "classification":
+                    {
+                        "color": "grey",
+                        "gender": "men"
+
+                    },
+                    "reviews": [
+                        {
+                            "user-id": "",
+                            "user-name": "",
+                            "rating": "",
+                            "comment": "",
+                            "replies": [
+                            {
+                                "user-id": "",
+                                "user-name": "",
+                                "comment": ""
+                            }]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "bottomSection": {
+        "title": "Our Awesome Selling Partners",
+        "sectionType": "grid",
+        "cardShape": "landscape",
+        "cardSize": "small",
+        "cardtype": "plain",
+        "cards": [
+        {
+            "description": "ABC NAME",
+            "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "imageAltText": "Card Image"
+        },
+        {
+            "description": "ABC NAME",
+            "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "imageAltText": "Card Image"
+        },
+        {
+            "description": "ABC NAME",
+            "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "imageAltText": "Card Image"
+        },
+        {
+            "description": "ABC NAME",
+            "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "imageAltText": "Card Image"
+        }]
+    }
+}

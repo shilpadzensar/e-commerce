@@ -1,0 +1,211 @@
+{
+    "offerBanner": {
+        "text": "You can enjoy additional 5% discount on your order!",
+        "buttonText": "Become a Premium member"        
+    },
+    "cartSection":  {
+        "title": "Your Cart",
+        "items": [
+            {
+                "productId": "001",
+                "productName": "The Sprinters",
+                "caption": "Lightweight running shoes",
+                "description": "",
+                "price": "$80",
+                "discountPrice": "$60",
+                "images": [
+                {
+                    "imageSrc": "https://images.unsplash.com/photo-1463100099107-aa0980c362e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": ""
+                }],
+                "offers": "Free Shiping",
+                "available": true,
+                "category": "Shoes",
+                "subcategory": "Running Shoes",
+                "quantity": 2
+
+            },
+            {
+                "productId": "002",
+                "productName": "The Sprinters",
+                "caption": "Lightweight running shoes",
+                "description": "",
+                "price": "$80",
+                "discountPrice": "$60",
+                "shipingtype": "Free Shiping",
+                "images": [
+                {
+                    "imageSrc": "https://images.unsplash.com/photo-1463100099107-aa0980c362e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": ""
+                }],
+                "offers": "",
+                "available": true,
+                "category": "Shoes",
+                "subcategory": "Running Shoes",
+                "quantity": 5
+            },
+            {
+                "productId": "002",
+                "productName": "The Sprinters",
+                "caption": "Lightweight running shoes",
+                "description": "",
+                "price": "$80",
+                "discountPrice": "$60",
+                "shipingtype": "Free Shiping",
+                "images": [
+                {
+                    "imageSrc": "https://images.unsplash.com/photo-1463100099107-aa0980c362e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "imageAltText": ""
+                }],
+                "offers": "",
+                "available": true,
+                "category": "Shoes",
+                "subcategory": "Running Shoes",
+                "quantity": 5
+            }
+
+        ]
+    } ,
+    "sections": [
+        {
+            "title": "Similar Products To Add In Your Cart",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.",
+            "buttonText": "View More",
+            "sectionType": "grid",
+            "cardShape": "square",
+            "cardSize": "medium",
+            "cardType": "product",
+            "cards": [
+	            {
+	                "productId": "001",
+	                "productName": "The Sprinters",
+	                "caption": "Lightweight running shoes",
+	                "description": "",
+	                "badge": "Sale!",
+	                "averageRating": "4.5",
+	                "totalRatings": "753",
+	                "price": "$80",
+	                "discountPrice": "$60",
+	                "images": [
+	                {
+	                    "imageSrc": "https://images.unsplash.com/photo-1463100099107-aa0980c362e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+	                    "imageAltText": ""
+	                }],
+	                "offers": "",
+	                "available": true,
+	                "category": "Shoes",
+	                "subcategory": "Running Shoes",
+	                "keywords": ["lightweight", "white", "light", "running", "jogging", "shoes"],
+	                "classification":
+	                {
+	                    "color": "grey",
+	                    "gender": "men"
+
+	                },
+	                "reviews": [
+		                {
+		                    "user-id": "",
+		                    "user-name": "",
+		                    "rating": "",
+		                    "comment": "",
+		                    "replies": [
+		                    {
+		                        "user-id": "",
+		                        "user-name": "",
+		                        "comment": ""
+		                    }]
+		                }
+		            ]
+	            },
+	            {
+	                "productId": "001",
+	                "productName": "The Sprinters",
+	                "caption": "Lightweight running shoes",
+	                "description": "",
+	                "badge": "Sale!",
+	                "averageRating": "4.5",
+	                "totalRatings": "753",
+	                "price": "$80",
+	                "discountPrice": "$60",
+	                "images": [
+	                {
+	                    "imageSrc": "https://images.unsplash.com/photo-1463100099107-aa0980c362e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+	                    "imageAltText": ""
+	                }],
+	                "offers": "",
+	                "available": true,
+	                "category": "Shoes",
+	                "subcategory": "Running Shoes",
+	                "keywords": ["lightweight", "white", "light", "running", "jogging", "shoes"],
+	                "classification":
+	                {
+	                    "color": "grey",
+	                    "gender": "men"
+
+	                },
+	                "reviews": [
+		                {
+		                    "user-id": "",
+		                    "user-name": "",
+		                    "rating": "",
+		                    "comment": "",
+		                    "replies": [
+		                    {
+		                        "user-id": "",
+		                        "user-name": "",
+		                        "comment": ""
+		                    }]
+		                }
+		            ]
+	            },
+	            {
+	                "productId": "001",
+	                "productName": "The Sprinters",
+	                "caption": "Lightweight running shoes",
+	                "description": "",
+	                "badge": "Sale!",
+	                "averageRating": "4.5",
+	                "totalRatings": "753",
+	                "price": "$80",
+	                "discountPrice": "$60",
+	                "images": [
+	                {
+	                    "imageSrc": "https://images.unsplash.com/photo-1463100099107-aa0980c362e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+	                    "imageAltText": ""
+	                }],
+	                "offers": "",
+	                "available": true,
+	                "category": "Shoes",
+	                "subcategory": "Running Shoes",
+	                "keywords": ["lightweight", "white", "light", "running", "jogging", "shoes"],
+	                "classification":
+	                {
+	                    "color": "grey",
+	                    "gender": "men"
+
+	                },
+	                "reviews": [
+		                {
+		                    "user-id": "",
+		                    "user-name": "",
+		                    "rating": "",
+		                    "comment": "",
+		                    "replies": [
+		                    {
+		                        "user-id": "",
+		                        "user-name": "",
+		                        "comment": ""
+		                    }]
+		                }
+		            ]
+	            }
+	        ]
+        }
+    ],
+    "summaryData": {
+        "totalPrice": "$100",
+        "totalShipinPrice": "$0",
+        "discountApplied": "$100",
+        "total": "$100"
+    }
+}

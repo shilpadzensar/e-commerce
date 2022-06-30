@@ -1,0 +1,26 @@
+// START HIGHLIGHT BANNER
+.highlight-banner {
+  background: $bg-highlight-color;
+
+  &.banner-center {
+    text-align: center;
+
+    .banner-content {
+      align-items: center;
+    }
+  }
+
+  &.banner-right {
+    text-align: right;
+
+    .banner-content {
+      align-items: flex-end;
+    }
+  }
+}
+.banner-grid .highlight-banner {
+  border-radius: $border-radius;
+  height: 100%;
+}
+
+// END HIGHLIGHT BANNER

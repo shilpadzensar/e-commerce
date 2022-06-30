@@ -1,0 +1,24 @@
+.cart-item {
+  img {
+    max-width: 100%;
+    max-height: 160px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+
+  }
+
+  .quantity-input {
+    max-width: 80px;
+    text-align: center;
+  }
+}
+
+.coupon-input {
+  display: flex;
+  gap: 16px;
+
+  input {
+    flex: 1;
+  }
+}

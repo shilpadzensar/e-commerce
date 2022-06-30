@@ -1,0 +1,52 @@
+
+// START BANNER
+.banner {
+  position: relative;
+  height: 100vh; 
+  background: $bg-highlight-color;
+
+  img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .banner-content {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    h1 {
+      font-size: 3.5rem;
+
+    }
+
+    p {
+      font-size: 1.25rem;
+    }
+  }
+
+  &.banner-center {
+    .banner-content {
+      align-items: center;
+    }
+  }
+
+  &.banner-right {
+    .banner-content {
+      align-items: flex-end;
+    }
+  }
+
+}
+
+// END BANNER

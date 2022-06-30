@@ -1,0 +1,115 @@
+// START Carousel
+
+.owl-carousel {
+    position: relative;
+
+    .owl-next,
+    .owl-prev {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+
+        &:hover {
+            background-color: rgba($bg-color-light, 0.5) !important;
+            box-shadow: none;
+        }
+    }
+
+    .owl-next {
+        right: 0;
+
+        border-top-left-radius: $border-radius;
+        border-bottom-left-radius: $border-radius;
+    }
+
+    .owl-prev {
+        left: 0;
+
+        border-top-right-radius: $border-radius;
+        border-bottom-right-radius: $border-radius;
+    }
+
+    .next-btn,
+    .prev-btn {
+        padding: 16px;
+        font-size: 36px;
+        color: $primary-color;
+    }
+
+    .owl-dots {
+        display: flex;
+        position: absolute;
+        bottom: 60px;
+        left: 50%;
+        transform: translateX(-50%);
+        transition: 0.15s all ease-in;
+
+        .owl-dot {
+            border-radius: 50%;
+            border: 2px solid $primary-color;
+            width: 12px;
+            min-width: 12px;
+            height: 12px;
+            margin: 0 8px;
+
+            &:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+            }
+
+            &.active {
+                background-color: $primary-color;
+            }
+        }
+    }
+
+
+}
+
+.card-carousel .owl-carousel {
+    .owl-dots {
+        bottom: -40px;
+    }
+
+    .owl-next {
+        right: -54px;
+        border-top-right-radius: $border-radius;
+        border-bottom-right-radius: $border-radius;
+    }
+
+    .owl-prev {
+        left: -54px;
+        border-top-left-radius: $border-radius;
+        border-bottom-left-radius: $border-radius;
+    }
+
+}
+
+.thumbnail-carousel .owl-carousel {
+
+    .next-btn,
+    .prev-btn {
+        padding: 8px;
+        font-size: 24px;
+        color: $primary-color;
+    }
+
+    .owl-dots {
+        bottom: -20px;
+    }
+
+    .owl-next {
+        right: -30px;
+        border-top-right-radius: $border-radius;
+        border-bottom-right-radius: $border-radius;
+    }
+
+    .owl-prev {
+        left: -30px;
+        border-top-left-radius: $border-radius;
+        border-bottom-left-radius: $border-radius;
+    }
+
+}
+
+// END Carousel

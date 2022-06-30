@@ -1,0 +1,284 @@
+{
+  
+    "featureSection":
+    {
+        "title": "NEW ARRIVALS",
+        "description": "Get Trendy with latest fashion updates!",
+        "buttonText": "Shop Now",
+        "sectionType": "grid",
+        "cardShape": "square",
+        "cardSize": "small",
+        "cardtype": "plain",
+        "cards": [
+        {
+            "title": "NEW ARRIVALS",
+            "description": "Get Trendy with latest fashion updates!",
+            "buttonText": "Shop Now",
+            "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "imageAltText": "Card Image"
+        },
+        {
+            "title": "NEW ARRIVALS",
+            "description": "Get Trendy with latest fashion updates!",
+            "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "imageAltText": "Card Image"
+        },
+        {
+            "title": "NEW ARRIVALS",
+            "description": "Get Trendy with latest fashion updates!",
+            "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "imageAltText": "Card Image"
+        },
+        {
+            "title": "NEW ARRIVALS",
+            "description": "Get Trendy with latest fashion updates!",
+            "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "imageAltText": "Card Image"
+        },
+        {
+            "title": "NEW ARRIVALS",
+            "description": "Get Trendy with latest fashion updates!",
+            "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "imageAltText": "Card Image"
+        },
+        {
+            "title": "NEW ARRIVALS",
+            "description": "Get Trendy with latest fashion updates!",
+            "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "imageAltText": "Card Image"
+        }]
+    },
+    "newsletter": {
+        "title": "Never miss out on latest offers!",
+        "buttonText": "Subscribe",
+        "inputPlaceholder": "Enter email address"
+    },
+    "highlightBanner": {
+        "title": "NEW ARRIVALS",
+        "description": "Get Trendy with latest fashion updates!",
+        "buttonText": "Shop Now",
+        "contentPosition": "center",
+        "imageSrc": "https://images.unsplash.com/photo-1519415943484-9fa1873496d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "imageAltText": "Banner Image"
+    },
+    "sections": [
+        {
+            "title": "NEW ARRIVALS",
+            "description": "Get Trendy with latest fashion updates!",
+            "buttonText": "Shop Now",
+            "sectionType": "carousel",
+            "cardShape": "portrait",
+            "cardSize": "medium",
+            "cardtype": "plain",
+            "cards": [
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "buttonText": "Shop Now",
+                "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            }]
+        },
+        {
+            "title": "NEW ARRIVALS",
+            "description": "Get Trendy with latest fashion updates!",
+            "buttonText": "Shop Now",
+            "sectionType": "grid",
+            "cardShape": "landscape",
+            "cardSize": "medium",
+            "cardtype": "plain",
+            "cards": [
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "buttonText": "Shop Now",
+                "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "imageAltText": "Card Image"
+            }]
+        },
+        {
+            "title": "NEW ARRIVALS",
+            "description": "Get Trendy with latest fashion updates!",
+            "buttonText": "Shop Now",
+            "sectionType": "grid",
+            "cardShape": "square",
+            "cardSize": "medium",
+            "cardType": "product",
+            "cards": [
+	            {
+	                "productId": "001",
+	                "productName": "The Sprinters",
+	                "caption": "Lightweight running shoes",
+	                "description": "",
+	                "badge": "Sale!",
+	                "averageRating": "4.5",
+	                "totalRatings": "753",
+	                "price": "$80",
+	                "discountPrice": "$60",
+	                "images": [
+	                {
+	                    "imageSrc": "https://images.unsplash.com/photo-1463100099107-aa0980c362e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+	                    "imageAltText": ""
+	                }],
+	                "offers": "",
+	                "available": true,
+	                "category": "Shoes",
+	                "subcategory": "Running Shoes",
+	                "keywords": ["lightweight", "white", "light", "running", "jogging", "shoes"],
+	                "classification":
+	                {
+	                    "color": "grey",
+	                    "gender": "men"
+
+	                },
+	                "reviews": [
+		                {
+		                    "user-id": "",
+		                    "user-name": "",
+		                    "rating": "",
+		                    "comment": "",
+		                    "replies": [
+		                    {
+		                        "user-id": "",
+		                        "user-name": "",
+		                        "comment": ""
+		                    }]
+		                }
+		            ]
+	            },
+	            {
+	                "productId": "001",
+	                "productName": "The Sprinters",
+	                "caption": "Lightweight running shoes",
+	                "description": "",
+	                "badge": "Sale!",
+	                "averageRating": "4.5",
+	                "totalRatings": "753",
+	                "price": "$80",
+	                "discountPrice": "$60",
+	                "images": [
+	                {
+	                    "imageSrc": "https://images.unsplash.com/photo-1463100099107-aa0980c362e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+	                    "imageAltText": ""
+	                }],
+	                "offers": "",
+	                "available": true,
+	                "category": "Shoes",
+	                "subcategory": "Running Shoes",
+	                "keywords": ["lightweight", "white", "light", "running", "jogging", "shoes"],
+	                "classification":
+	                {
+	                    "color": "grey",
+	                    "gender": "men"
+
+	                },
+	                "reviews": [
+		                {
+		                    "user-id": "",
+		                    "user-name": "",
+		                    "rating": "",
+		                    "comment": "",
+		                    "replies": [
+		                    {
+		                        "user-id": "",
+		                        "user-name": "",
+		                        "comment": ""
+		                    }]
+		                }
+		            ]
+	            }
+	        ]
+        }
+    ],
+	"bottomSection": {
+        "title": "ABC NAME",
+        "description": "Get Trendy with latest fashion updates!",
+        "buttonText": "Shop Now",
+        "sectionType": "grid",
+        "cardShape": "square",
+        "cardSize": "small",
+        "cardtype": "plain",
+        "cards": [
+        {
+            "description": "ABC NAME",
+            "buttonText": "Shop Now",
+            "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "imageAltText": "Card Image"
+        },
+        {
+            "description": "ABC NAME",
+            "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "imageAltText": "Card Image"
+        },
+        {
+            "description": "ABC NAME",
+            "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "imageAltText": "Card Image"
+        },
+        {
+            "description": "ABC NAME",
+            "imageSrc": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "imageAltText": "Card Image"
+        }]
+    }
+}

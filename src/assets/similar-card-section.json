@@ -1,0 +1,46 @@
+{
+            "title": "Browse Similar Products",
+            "buttonText": "View More",
+            "sectionType": "carousel",
+            "cardShape": "square",
+            "cardSize": "medium",
+            "cardtype": "plain",
+            "cards": [
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "buttonText": "Buy Now",
+                "imageSrc": "https://images.unsplash.com/photo-1517686748843-bb360cfc62b3?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1533859583213-c4e11b597ee0?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1556012018-50c5c0da73bf?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1567169866456-a0759b6bb0c8?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1598931247655-fe06b102b7de?ixlib=rb-1.2.1&raw_url=true&q=60&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE2fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=300",
+                "imageAltText": "Card Image"
+            },
+            {
+                "title": "NEW ARRIVALS",
+                "description": "Get Trendy with latest fashion updates!",
+                "imageSrc": "https://images.unsplash.com/photo-1621508638997-e30808c10653?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880",
+                "imageAltText": "Card Image"
+            }]
+        }

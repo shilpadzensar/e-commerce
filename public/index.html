@@ -1,0 +1,62 @@
+
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald:wght@200&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display:wght@400;600&family=Poiret+One&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Fredoka+One&family=Inter:wght@300&display=swap" rel="stylesheet">
+    <title>E-Comm Accelerated</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="icon" type="image/x-icon" href="favicon.ico"> -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <!-- <link rel="stylesheet" href="./owl.carousel/assets/owl.carousel.min.css" /> -->
+</head>
+
+<body>
+    <noscript>
+        You need to enable JavaScript to run this app.
+    </noscript>
+    <div id="root"></div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+        setTimeout(() => {
+            $('#thumbnail-carousel').owlCarousel({
+                loop: false,
+                margin: 10,
+                nav: true,
+                navText: [
+                    '<i class="prev-btn fas fa-chevron-left"></i>',
+                    '<i class="next-btn fas fa-chevron-right"></i>'
+                ],
+
+                autoplay: false,
+                responsive: {
+                    0: {
+                        items: 3,
+                    },
+                    576: {
+                        items: 3,
+                    },
+                    768: {
+                        items: 3,
+                    },
+                    992: {
+                        items: 4,
+                    }
+                }
+            });
+        }, 300);
+    });
+    </script>
+</body>
+
+</html>

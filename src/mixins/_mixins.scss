@@ -1,0 +1,20 @@
+@mixin hover-bg ($hover-bg-color: $bg-color-light) {
+  &:hover {
+    background-color: rgba($hover-bg-color, 0.15);
+  }
+}
+
+@mixin logo-img {
+  width: 160px;
+  height: 24px;
+  object-fit: contain;
+  object-position: left;
+}
+
+@mixin small-shadow {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+@mixin large-shadow {
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2);
+}
